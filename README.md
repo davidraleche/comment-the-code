@@ -8,6 +8,22 @@
 //====================================================================//
 ```
 
+
+```
+    /**
+     * Checking Valid JSON Format and Schema
+     * OrdersController::/v1/orderSubmissionToWindsurfer
+     *
+     * @param $result
+     *
+     * @return mixed
+     *
+     * @author  David Raleche <david@raleche.com>
+     * @since   2019
+     * @version 06-17-2019
+     */
+```
+
 ```
 //***********************************************************//
 // POST TO MAPI OST API Order - v1/processOrdersWithPayload. //
@@ -78,19 +94,5 @@
 ```
 
 
-```
-    /**
-     * Checking Valid JSON Format and Schema
-     * OrdersController::/v1/orderSubmissionToWindsurfer
-     *
-     * @param $result
-     *
-     * @return mixed
-     *
-     * @author  David Raleche
-     * @since   2019
-     * @version 06-17-2019
-     */
-```
 
 
